@@ -7,7 +7,7 @@
 * cloneしてリポートリポジトリの設定を変更するか、ファイルを移動・設置
 * `.github/workflows/main.yml`のアクションリポジトリの指定部分を作成したリポジトリに変更
 
-## trace from [Docker コンテナのアクションを作成する](https://help.github.com/ja/actions/building-actions/creating-a-docker-container-action)
+## This is trace from [Docker コンテナのアクションを作成する](https://help.github.com/ja/actions/building-actions/creating-a-docker-container-action)
 
 ### Hello world docker action
 
